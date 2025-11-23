@@ -2,6 +2,6 @@
 
 A tiny command-line calculator (add, subtract, multiply, divide).
 
-Usage:
+# Usage: Start the app with python calculator.py from the project root.
 
 python calculator.py
